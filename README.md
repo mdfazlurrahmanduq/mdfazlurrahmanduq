@@ -2,7 +2,7 @@
 
 
 I'm **Md Fazlur Rahman** — a data enthusiast passionate about analytics, machine learning, and business insights.  
-🎓 I hold an MS in Analytics and Information Management at Duquesne University.
+🎓 I hold an MS in Analytics and Information Management from Duquesne University.
 
 Here are some ideas to get you started:
 
